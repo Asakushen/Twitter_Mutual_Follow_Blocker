@@ -82,7 +82,9 @@ const BLOCK_KEYWORDS = [
 如果这个脚本让你的推特时间线变干净了，请**给这个仓库点一个 Star ⭐**！
 这是对我最大的鼓励！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Asakushen/Twitter_Mutual_Follow_Blocker&type=Date)](https://star-history.com/#Asakushen/Twitter_Mutual_Follow_Blocker&Date)
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Asakushen/Twitter_Mutual_Follow_Blocker&type=date&legend=top-left)](https://www.star-history.com/#Asakushen/Twitter_Mutual_Follow_Blocker&type=date&legend=top-left)
 
 ## 📄 许可证 (License)
 
